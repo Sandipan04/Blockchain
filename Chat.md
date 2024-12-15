@@ -570,6 +570,7 @@ The system will consist of the following components:
 ### Flowchart
 Below is a flowchart illustrating the proposed system architecture and workflow:
 
+```plaintext
 +-------------------+       +-------------------+       +-------------------+
 |                   |       |                   |       |                   |
 |   User Interface  |       |   API Gateway     |       |  Blockchain       |
@@ -600,6 +601,7 @@ Below is a flowchart illustrating the proposed system architecture and workflow:
 |  Share Identity   | ----> |  Share Identity   | ----> |  Share Identity   |
 |                   |       |                   |       |                   |
 +-------------------+       +-------------------+       +-------------------+
+```
 
 ### Implementation Plan
 #### Phase 1: Requirements Analysis and Design
